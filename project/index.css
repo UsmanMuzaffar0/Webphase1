@@ -1,0 +1,33 @@
+#header-nav
+{
+  background-color: white;
+  border-radius: 0;
+  border: 0;
+}
+
+#logo-img
+{
+  background: url('../proj ph 1/logo.png') no-repeat;
+  width: 150px;
+  height: 50px;
+  margin: 10px 15px 10px 0px;
+}
+
+#bs-example-navbar-collapse-1
+{
+	border-top: 0px;
+	background-color: white;
+}
+
+#navbar ul li {
+
+	display: inline;
+	margin-top: 500px;
+
+
+        
+
+
+}
+
+
